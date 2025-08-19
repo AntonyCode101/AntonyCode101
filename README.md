@@ -1,10 +1,18 @@
  # Antony Pereira
  **`Desenvolvedor backend`**
-<div> 
-  <a href="https://www.linkedin.com/in/antony-pereira-8848652b5/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-</div>
+ <div>
+  <p>
+   🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unimar (1º termo)
+  </p>
+  <p>
+     💻 Focado em backend com (Python, PHP, SQL...)
+  </p>
+  <p>
+     🚀 Interesse em estágio na área de desenvolvimento
+  </p>
+ </div>
+
+---
 
 ###
 
@@ -34,6 +42,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
  <img width="12" />
 </div>
+
+---
 
  <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonyCode101/AntonyCode101/output/github-contribution-grid-snake-dark.svg">
