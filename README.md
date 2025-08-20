@@ -1,15 +1,15 @@
  # Antony Pereira
  **`Desenvolvedor backend`**
  <div>
-  <p>
-   🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unimar (1º termo) </p>
-  <p> 💻 Focado em backend com (Python, PHP, SQL...) </p>
-  <p> 🚀 Interesse em estágio na área de desenvolvimento </p>
- </div>
+  <p aling="center"> Sou estudante de ADS, atualmente no 2º termo pela Unimar, Tenho interesse em desenvolvimento Back-end e Banco de Dados, Gosto de colocar meus conhecimentos em prática e contribuir com projetos que tragam novas ideias e soluções tecnológicas.</p>
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]()
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)]()
 
 ---
 
-###
+### 👨‍💻 Estatísticas
 <div align="left">
  <table> 
   <tr>
