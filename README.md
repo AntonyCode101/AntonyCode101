@@ -7,8 +7,8 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)]()
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/antony-miguel-pereira)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)](Antonymiguel@gmail.com)
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br>- 🔭 Atualmente estou a procura de Estagio na área de desenvolvimento Back-end e/ou Banco de dados<br>- 📚 Estou Cursando Análise e Desenvolvimento de Sistemas pela Unimar<br> </p>
 
 ###
 
