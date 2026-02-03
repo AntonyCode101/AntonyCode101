@@ -6,8 +6,9 @@
 <h1 align="center">Oi! Eu sou Antony Pereira 👋</h1>
 
 ###
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/antony-miguel-pereira)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&link=mailto:Antonymiguel@gmail.com)](mailto:Antonymiguel@gmail.com)
+<p align="center">
+  <a href="mailto:Antonymiguel@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF" alt="E-mail"></a><a href="https://www.linkedin.com/in/antony-pereira-263229202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF" alt="LinkedIn"></a>
+</p>
 
 ###
 
