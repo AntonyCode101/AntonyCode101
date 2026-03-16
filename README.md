@@ -4,10 +4,11 @@
 <p align="center"> <a href="mailto:antonymiguel1606@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF" alt="E-mail"></a><a href="https://www.linkedin.com/in/antony-miguel-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF" alt="LinkedIn"></a> </p>
 
 <h3 align="left">👩‍💻 About Me</h3>
-Desenvolvedor Backend
 
-- Atualmente estou a procura de Estagio na área de desenvolvimento Back-end e/ou Banco de dados
-- Estou Cursando Análise e Desenvolvimento de Sistemas pela Unimar
+> **Desenvolvedor Backend**
+
+- Atualmente estou à procura de **estágio** na área de desenvolvimento **Back-end** e/ou **Banco de Dados**.
+- Estou cursando **Análise e Desenvolvimento de Sistemas** pela **[Unimar](https://unimar.br)**.
 
 ###
 
@@ -21,9 +22,13 @@ Desenvolvedor Backend
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
