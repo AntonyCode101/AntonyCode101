@@ -8,15 +8,13 @@
 ## ☁️ About me
 <p align="left"> <a href="mailto:antonymiguel1606@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF" alt="E-mail"></a><a href="https://www.linkedin.com/in/antony-miguel-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF" alt="LinkedIn"></a> </p>
 
-Oi, eu sou o **Antony**. Desenvolvedor de coração artístico, daqueles que acham que **código bonito também é uma forma de arte**.
+Hi! I'm **Antony**, a technology enthusiast and Software Development student passionate about programming, problem-solving, and building solutions through code.
+I'm constantly learning and improving my skills, exploring new technologies, and developing projects that help me grow both personally and professionally.
 
-Gosto de ver as coisas no lugar: pastas organizadas, commits claros, interfaces com identidade. Mas sem perder o lado sonhador, porque é dele que vêm as melhores ideias.
-
-- 🎨 Acredito que **estética e lógica** andam juntas
-- 🗂️ Organização é o meu jeito de pensar com clareza
-- 🌱 Sempre aprendendo, sempre construindo algo novo
-- 🧩 Curto resolver problemas reais com **backend, dados e interfaces**
-- 💭 Meu código tem um pouco de céu, um pouco de caos controlado
+- 🎓 Studying Systems Analysis and Development
+- 💻 Interested in software development and programming
+- 🚀 Always learning, building, and improving
+- 🎯 Focused on growing as a developer and gaining practical experience
 
 
 ## 🛠️ Stack
