@@ -6,7 +6,7 @@
 
 
 ## ☁️ About me
-<a href="https://github.com/AntonyCode101"><img src="https://img.shields.io/badge/GitHub-AntonyCode101-0d1117?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
+<p align="left"> <a href="mailto:antonymiguel1606@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF" alt="E-mail"></a><a href="https://www.linkedin.com/in/antony-miguel-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF" alt="LinkedIn"></a> </p>
 
 Oi, eu sou o **Antony**. Desenvolvedor de coração artístico, daqueles que acham que **código bonito também é uma forma de arte**.
 
@@ -22,7 +22,7 @@ Gosto de ver as coisas no lugar: pastas organizadas, commits claros, interfaces 
 ## 🛠️ Stack
 
 <details>
-<summary><b>✨ Clique para abrir minha caixa de ferramentas</b></summary>
+<summary><b>✨ Check here </b></summary>
 
 <br>
 
@@ -32,24 +32,12 @@ Gosto de ver as coisas no lugar: pastas organizadas, commits claros, interfaces 
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=A179DC)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892BF)
-
-**🎨 Front-end & Web**
-
 ![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=3FA9F5)
-![HTML](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=internetarchive&logoColor=8B9BB4)
-
-**⚙️ Back-end & Frameworks**
-
+![HTML](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html&logoColor=E34F26)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=E6EDF3)
-
-**🗄️ Bancos de dados**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=6C9BD2)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=5DA3D9)
-
-**🧰 Ferramentas**
-
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=A179DC)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=3FA9F5)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -59,6 +47,7 @@ Gosto de ver as coisas no lugar: pastas organizadas, commits claros, interfaces 
 
 
 ## 🖼️ Projects
+<br>
 
 | Projeto | Sobre |
 |---|---|
@@ -69,28 +58,23 @@ Gosto de ver as coisas no lugar: pastas organizadas, commits claros, interfaces 
 
 
 ## 📊 Statics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonyCode101&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=A179DC&ring_color=58A6FF&locale=pt-br" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyCode101&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Top languages" />
-
 <br>
 
-</div>
-
----
-
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=AntonyCode101&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&icon_color=A179DC&ring_color=58A6FF&locale=pt-br" alt="Stats" />
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyCode101&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 💌 Vamos conversar?
-
-<a href="https://github.com/AntonyCode101"><img src="https://img.shields.io/badge/GitHub-AntonyCode101-0d1117?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
-<!-- Adicione aqui seu LinkedIn / e-mail / portfólio -->
- <a href="https://linkedin.com/in/antony-miguel-pereira"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Link"/></a> 
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f4d,50:16233a,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1f4d,50:16233a,100:0d1117&height=110&section=footer" width="100%" alt="footer" /> </div>
